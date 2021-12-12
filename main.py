@@ -5,3 +5,5 @@ print('String Concatenation is done with the "+" sign.')
 print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 input("What is your name?")
+#The Python Input Function
+print (len(input ("What is your name?"))) 
