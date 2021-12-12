@@ -6,4 +6,15 @@ print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 input("What is your name?")
 #The Python Input Function
-print (len(input ("What is your name?"))) 
+print (len(input ("What is your name?")))
+#Python Variables
+name = "Jack"
+print(name)
+
+name = "Andrew"
+print(name)
+
+
+name = input("What is your name?")
+length = len(name)
+print(length) 
