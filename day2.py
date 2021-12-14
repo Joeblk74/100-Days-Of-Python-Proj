@@ -20,3 +20,8 @@ print(123 + 345)
 
 True
 False
+
+num_char = len(input("what is your name?"))
+#print("Your name has" + num_char + "characters.")
+
+print(type(len(input("whatis your name"))))
