@@ -51,6 +51,12 @@ print(int(a) + int(b))
 # Exponents
 2 ** 2
 
+# PEMDASLR
+# ()
+# **
+# * /
+# + -
+# 3 *
 
-
-
+print(3 + 3 + 3 - 3 - 3)
+print(3 * (3 + 3) / 3 - 3)
