@@ -32,3 +32,25 @@ print(type(a))
 
 print(70 + float("100.5"))
 print(str(70)+ str(100))
+
+two_digit_number = input("Type a two digit number: ")
+
+print(type(two_digit_number))
+# two_digit_int = int(two_digit_number)
+# print(two_digit_int)
+a = two_digit_number[0]
+b = two_digit_number[1]
+print(int(a) + int(b))
+
+#Mathmatical Operations
+
+3 + 5
+7 - 4
+3 * 2
+6 / 3
+# Exponents
+2 ** 2
+
+
+
+
