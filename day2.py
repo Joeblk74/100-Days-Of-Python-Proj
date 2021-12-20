@@ -82,3 +82,10 @@ bmi = weight_as_int / (height_as_float * height_as_float)
 bmi_as_int = int(bmi)
 
 print(bmi_as_int)
+
+#number manipulation / rounding of numbers
+print(round(8 / 3))
+#rounding to a specific decimal place
+print(round (8 / 3, 2))
+#floor division
+print(8 // 3)
